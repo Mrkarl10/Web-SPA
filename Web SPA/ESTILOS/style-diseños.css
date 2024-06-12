@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    padding: 5px 15px 5px 10px
+}
+
+hr{
+    height: 5px ;
+}
+
+.title{
+    text-align: center;
+    background-color: black;
+    color: beige;
+    padding: 5px 15px 5px 10px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.destacar{
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 2%;
+}

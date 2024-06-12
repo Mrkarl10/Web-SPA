@@ -1,0 +1,76 @@
+body{
+    background-color: white;
+}
+
+
+
+.item{
+    float: left;
+    width: 310px;
+    height: 40px;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    
+}
+
+
+.item:hover{
+    color: black; 
+    background-color: beige;
+    transform: scale(1.1);
+}
+
+.horario{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 65%;
+    left: 2%;
+    padding: 5px 15px 5px 10px
+}
+
+.info{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px 15px 5px 10px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+
+.direccion{
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 65%;
+    right: 2%;
+    padding: 5px 15px 5px 10px
+}
+
+
+.container{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+p{
+    font-size: medium;
+}
+
+
+.tipo {
+    text-align: center;
+    align-items: center;
+    
+}
+
+.image-tips{
+    justify-content: center;
+    padding-top: 2%;
+
+}
