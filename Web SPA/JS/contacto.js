@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded", function() {
     })
 
     document.getElementById("shop-now").addEventListener("click", function() {
-        window.open("shop.html", "_blank"); // Cambiar a la pagina de diseños 
+        window.open("shop.html", "_blank"); // Cambiar a la pagina de compra 
     })
 })
